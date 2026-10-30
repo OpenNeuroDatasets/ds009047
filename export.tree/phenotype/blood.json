@@ -1,0 +1,109 @@
+{
+  "baso_abs": {
+    "Description": "Absolute basophil count.",
+    "LongName": "BASO#"
+  },
+  "baso_pct": {
+    "Description": "Percentage of basophils.",
+    "LongName": "BASO%"
+  },
+  "eos_abs": {
+    "Description": "Absolute eosinophil count.",
+    "LongName": "EO#"
+  },
+  "eos_pct": {
+    "Description": "Percentage of eosinophils.",
+    "LongName": "EO%"
+  },
+  "hct": {
+    "Description": "Hematocrit.",
+    "LongName": "HCT"
+  },
+  "hgb": {
+    "Description": "Hemoglobin concentration.",
+    "LongName": "HGB"
+  },
+  "lym_abs": {
+    "Description": "Absolute lymphocyte count.",
+    "LongName": "LYM#"
+  },
+  "lym_pct": {
+    "Description": "Percentage of lymphocytes.",
+    "LongName": "LYM%"
+  },
+  "mch": {
+    "Description": "Mean corpuscular hemoglobin.",
+    "LongName": "MCH"
+  },
+  "mchc": {
+    "Description": "Mean corpuscular hemoglobin concentration.",
+    "LongName": "MCHC"
+  },
+  "mcv": {
+    "Description": "Mean corpuscular volume.",
+    "LongName": "MCV"
+  },
+  "mono_abs": {
+    "Description": "Absolute monocyte count.",
+    "LongName": "MONO#"
+  },
+  "mono_pct": {
+    "Description": "Percentage of monocytes.",
+    "LongName": "MONO%"
+  },
+  "mpv": {
+    "Description": "Mean platelet volume.",
+    "LongName": "MPV"
+  },
+  "neut_abs": {
+    "Description": "Absolute neutrophil count.",
+    "LongName": "NEUT#"
+  },
+  "neut_pct": {
+    "Description": "Percentage of neutrophils.",
+    "LongName": "NEUT%"
+  },
+  "nrbc_abs": {
+    "Description": "Absolute nucleated red blood cell count.",
+    "LongName": "NRBC#"
+  },
+  "nrbc_pct": {
+    "Description": "Percentage of nucleated red blood cells.",
+    "LongName": "NRBC%"
+  },
+  "p_lcr": {
+    "Description": "Platelet large cell ratio.",
+    "LongName": "P-LCR"
+  },
+  "participant_id": {
+    "Description": "BIDS participant identifier."
+  },
+  "pdw": {
+    "Description": "Platelet distribution width.",
+    "LongName": "PDW"
+  },
+  "plateletcrit": {
+    "Description": "Plateletcrit.",
+    "LongName": "PCT-XE"
+  },
+  "plt": {
+    "Description": "Platelet count.",
+    "LongName": "PLT"
+  },
+  "rbc": {
+    "Description": "Red blood cell count.",
+    "LongName": "RBC"
+  },
+  "rdw_cv": {
+    "Description": "Red cell distribution width, coefficient of variation.",
+    "LongName": "RDW-CV"
+  },
+  "rdw_sd": {
+    "Description": "Red cell distribution width, standard deviation.",
+    "LongName": "RDW-SD"
+  },
+  "wbc": {
+    "Description": "White blood cell count.",
+    "LongName": "WBC"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "ecg_findings_en": {
+    "Description": "Standardized English electrocardiographic findings. Multiple findings are semicolon-separated."
+  },
+  "ecg_icd10_cn2": {
+    "Description": "China National Clinical Version 2.0 ICD-10 code(s) corresponding to coded electrocardiographic findings. Multiple codes are semicolon-separated; n/a indicates that no code was assigned."
+  },
+  "participant_id": {
+    "Description": "BIDS participant identifier."
+  }
+}

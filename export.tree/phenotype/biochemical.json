@@ -1,0 +1,153 @@
+{
+  "alb": {
+    "Description": "Serum albumin concentration.",
+    "LongName": "ALB"
+  },
+  "albumin_globulin_ratio": {
+    "Description": "Albumin to globulin ratio.",
+    "LongName": "A/G"
+  },
+  "alp": {
+    "Description": "Alkaline phosphatase activity.",
+    "LongName": "ALP"
+  },
+  "alt": {
+    "Description": "Alanine aminotransferase activity.",
+    "LongName": "ALT"
+  },
+  "anion_gap": {
+    "Description": "Anion gap calculated from serum electrolytes.",
+    "LongName": "AG"
+  },
+  "apo_a1": {
+    "Description": "Apolipoprotein A1 concentration.",
+    "LongName": "APO-A1"
+  },
+  "apo_b": {
+    "Description": "Apolipoprotein B concentration.",
+    "LongName": "APO-B"
+  },
+  "apo_b_a1_ratio": {
+    "Description": "Ratio of apolipoprotein B to apolipoprotein A1.",
+    "LongName": "APOB:A"
+  },
+  "ast": {
+    "Description": "Aspartate aminotransferase activity.",
+    "LongName": "AST"
+  },
+  "ast_alt_ratio": {
+    "Description": "Ratio of AST to ALT.",
+    "LongName": "AST/ALT"
+  },
+  "bun": {
+    "Description": "Blood urea nitrogen concentration.",
+    "LongName": "BUN"
+  },
+  "bun_creatinine_ratio": {
+    "Description": "Ratio of blood urea nitrogen to creatinine.",
+    "LongName": "B:C"
+  },
+  "calcium": {
+    "Description": "Serum calcium concentration.",
+    "LongName": "CA"
+  },
+  "chloride": {
+    "Description": "Serum chloride concentration.",
+    "LongName": "CL"
+  },
+  "chol": {
+    "Description": "Total cholesterol concentration.",
+    "LongName": "CHOL"
+  },
+  "ck": {
+    "Description": "Creatine kinase activity.",
+    "LongName": "CK"
+  },
+  "ck_mb": {
+    "Description": "Creatine kinase MB isoenzyme activity.",
+    "LongName": "CKMB"
+  },
+  "co2": {
+    "Description": "Serum carbon dioxide/bicarbonate measurement.",
+    "LongName": "CO2"
+  },
+  "creatinine": {
+    "Description": "Serum creatinine concentration.",
+    "LongName": "CREA"
+  },
+  "crp_cobas": {
+    "Description": "C-reactive protein measured using the Cobas platform.",
+    "LongName": "CRP(COBAS)"
+  },
+  "direct_bilirubin": {
+    "Description": "Direct bilirubin concentration.",
+    "LongName": "DBIL"
+  },
+  "egfr": {
+    "Description": "Estimated glomerular filtration rate.",
+    "LongName": "EGFR"
+  },
+  "ggt": {
+    "Description": "Gamma-glutamyl transferase activity.",
+    "LongName": "GGTL"
+  },
+  "globulin": {
+    "Description": "Serum globulin concentration.",
+    "LongName": "GLO"
+  },
+  "glucose": {
+    "Description": "Blood glucose concentration.",
+    "LongName": "GLU"
+  },
+  "hdl_c": {
+    "Description": "High-density lipoprotein cholesterol concentration.",
+    "LongName": "HDLC"
+  },
+  "indirect_bilirubin": {
+    "Description": "Indirect bilirubin concentration.",
+    "LongName": "IBIL"
+  },
+  "ldh": {
+    "Description": "Lactate dehydrogenase activity.",
+    "LongName": "LDH"
+  },
+  "ldl_c": {
+    "Description": "Low-density lipoprotein cholesterol concentration.",
+    "LongName": "LDL-C"
+  },
+  "magnesium": {
+    "Description": "Serum magnesium concentration.",
+    "LongName": "MG"
+  },
+  "osmolality": {
+    "Description": "Calculated serum osmolality.",
+    "LongName": "OSM"
+  },
+  "participant_id": {
+    "Description": "BIDS participant identifier."
+  },
+  "phosphate": {
+    "Description": "Serum inorganic phosphate concentration.",
+    "LongName": "PHOS"
+  },
+  "potassium": {
+    "Description": "Serum potassium concentration.",
+    "LongName": "K"
+  },
+  "total_bilirubin": {
+    "Description": "Total bilirubin concentration.",
+    "LongName": "TBIL"
+  },
+  "total_protein": {
+    "Description": "Total serum protein concentration.",
+    "LongName": "TP"
+  },
+  "triglycerides": {
+    "Description": "Triglyceride concentration.",
+    "LongName": "TG"
+  },
+  "uric_acid": {
+    "Description": "Serum uric acid concentration.",
+    "LongName": "URIC"
+  }
+}

@@ -1,19 +1,20 @@
 {
-  "Name": "A multimodal structural MRI and clinical dataset of adults with dizziness and vertigo",
-  "BIDSVersion": "1.11.2",
-  "DatasetType": "raw",
-  "License": "CC0",
-  "Authors": [
-    "Axiang Peng",
-    "Yangyi Luo",
-    "Yanling Hong",
-    "Xiaomei Zhuang",
-    "Xiaoyan Ma",
-    "Jiechao Zhou",
-    "Wencan He",
-    "Binbin Xu",
-    "Suping He",
-    "Qiang Zeng",
-    "Shanjun Mao"
-  ]
+    "Name": "A multimodal structural MRI and clinical dataset of adults with dizziness and vertigo",
+    "BIDSVersion": "1.11.2",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Axiang Peng",
+        "Yangyi Luo",
+        "Yanling Hong",
+        "Xiaomei Zhuang",
+        "Xiaoyan Ma",
+        "Jiechao Zhou",
+        "Wencan He",
+        "Binbin Xu",
+        "Suping He",
+        "Qiang Zeng",
+        "Shanjun Mao"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds009047.v1.0.0"
 }
